@@ -1,1 +1,2 @@
 Hello,This is a test file .
+I am now in a new branch,This is a test text in second branch.
